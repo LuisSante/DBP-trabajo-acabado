@@ -18,3 +18,5 @@ El sistema consta de componentes tales como:
 1. Login (acceso por medio de un user, password)
 2. Empleado (añadir, modificar, eliminar Empleados)
 3. Producto (añadir, modificar, eliminar Productos)
+4. Cliente (añadir, modificar, eliminar Productos)
+5. Nueva venta (añadir, modificar, eliminar venta, generar venta,generar comprovante de pago)
