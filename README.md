@@ -8,5 +8,13 @@ de Ciencias de la Computación.
 ## Tecnologías
 
 Para el desarrollo del proyecto se hizo uso de:
-1. Frontend: HTML5, CSS, JS (Bootstrap)
- 
+1. Frontend: JSP, JSTL, CSS, JS (Bootstrap)
+2. Backend: Java
+3. Herramientas: Eclipse IDE, MySQL Database, Tomcat9
+
+## Componentes
+
+El sistema consta de componentes tales como:
+1. Login (acceso por medio de un user, password)
+2. Empleado (añadir, modificar, eliminar Empleados)
+3. Producto (añadir, modificar, eliminar Productos)
